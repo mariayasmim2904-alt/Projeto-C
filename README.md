@@ -22,12 +22,13 @@ despesas por meio de uma interface web integrada a uma API em .NET.
 ## Como executar
 
 ### Front-end
-npm install
-npm run dev
+-cd frontend
+-npm install
+-npm run dev
 
 ### Back-end
-dotnet restore
-dotnet run
+-cd backend
+-dotnet watch run
 
 ## Estrutura do projeto
 - Front-end: React + TypeScript
