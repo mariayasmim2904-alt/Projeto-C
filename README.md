@@ -22,11 +22,13 @@ despesas por meio de uma interface web integrada a uma API em .NET.
 ## Como executar
 
 ### Front-end
+- cd ControleGastos
 - cd frontend
 - npm install
 - npm run dev
 
 ### Back-end
+- cd ControleGastos 
 - cd backend
 - dotnet watch run
 
